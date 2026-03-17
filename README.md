@@ -1,8 +1,11 @@
 Hi! I'm Rocio👋
 
 ✨ Information Systems Analyst
+
 💻 Frontend Developer in training  
+
 🎨 I enjoy building modern and user-friendly interfaces
+
 📍 Argentina 
 
 ⚡ Technologies 
