@@ -1,12 +1,14 @@
 Hi! I'm Rocio👋
 
 ✨ Information Systems Analyst
+
 💻 Frontend Developer in training  
 
 🎨 I enjoy building modern and user-friendly interfaces
 
 📍 Argentina 
 
+----
 
 ⚡ Technologies 
 
@@ -15,12 +17,13 @@ Hi! I'm Rocio👋
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFDA8C?logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-EF88AF?logo=react&logoColor=white)
 
+----
 
 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/rocio-magal%C3%AD-balent/
 - Email: balentrocio@gmail.com
 
-
+----
 
 🇦🇷 Based in Argentina | Español nativo
